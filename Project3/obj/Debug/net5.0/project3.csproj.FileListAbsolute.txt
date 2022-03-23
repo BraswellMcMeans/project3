@@ -1,0 +1,16 @@
+C:\Users\2weez\OneDrive\Documents\Code\repos\project3\bin\Debug\net5.0\project3.exe
+C:\Users\2weez\OneDrive\Documents\Code\repos\project3\bin\Debug\net5.0\project3.deps.json
+C:\Users\2weez\OneDrive\Documents\Code\repos\project3\bin\Debug\net5.0\project3.runtimeconfig.json
+C:\Users\2weez\OneDrive\Documents\Code\repos\project3\bin\Debug\net5.0\project3.runtimeconfig.dev.json
+C:\Users\2weez\OneDrive\Documents\Code\repos\project3\bin\Debug\net5.0\project3.dll
+C:\Users\2weez\OneDrive\Documents\Code\repos\project3\bin\Debug\net5.0\ref\project3.dll
+C:\Users\2weez\OneDrive\Documents\Code\repos\project3\bin\Debug\net5.0\project3.pdb
+C:\Users\2weez\OneDrive\Documents\Code\repos\project3\obj\Debug\net5.0\project3.csproj.AssemblyReference.cache
+C:\Users\2weez\OneDrive\Documents\Code\repos\project3\obj\Debug\net5.0\project3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2weez\OneDrive\Documents\Code\repos\project3\obj\Debug\net5.0\project3.AssemblyInfoInputs.cache
+C:\Users\2weez\OneDrive\Documents\Code\repos\project3\obj\Debug\net5.0\project3.AssemblyInfo.cs
+C:\Users\2weez\OneDrive\Documents\Code\repos\project3\obj\Debug\net5.0\project3.csproj.CoreCompileInputs.cache
+C:\Users\2weez\OneDrive\Documents\Code\repos\project3\obj\Debug\net5.0\project3.dll
+C:\Users\2weez\OneDrive\Documents\Code\repos\project3\obj\Debug\net5.0\ref\project3.dll
+C:\Users\2weez\OneDrive\Documents\Code\repos\project3\obj\Debug\net5.0\project3.pdb
+C:\Users\2weez\OneDrive\Documents\Code\repos\project3\obj\Debug\net5.0\project3.genruntimeconfig.cache
